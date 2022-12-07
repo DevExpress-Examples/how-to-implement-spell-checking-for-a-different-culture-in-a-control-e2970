@@ -13,7 +13,7 @@ Imports System.Globalization
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
-	Protected Sub panel_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+	Protected Sub panel_Callback(ByVal sender As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 		Dim c As HttpCookie = Request.Cookies("Culture")
 		If c Is Nothing Then
 			Return

@@ -12,7 +12,7 @@ using System.Globalization;
 
 public partial class _Default : System.Web.UI.Page
 {
-	protected void panel_Callback(object sender, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+	protected void panel_Callback(object sender, DevExpress.Web.CallbackEventArgsBase e) {
 		HttpCookie c = Request.Cookies["Culture"];
 		if (c == null)
 			return;
