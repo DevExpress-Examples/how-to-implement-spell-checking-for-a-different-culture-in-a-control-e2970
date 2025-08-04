@@ -1,4 +1,4 @@
-# ASP.NET Web Forms - Implement spell checking for a different culture
+# ASP.NET Web Forms Spell Checker - Implement spell checking for a different culture
 
 This example demonstrates how to set an appropriate culture to [ASPxSpellChecker](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxSpellChecker.ASPxSpellChecker) before it starts spell check operations.
 
