@@ -23,3 +23,4 @@ This example demonstrates how to set an appropriate culture to [ASPxSpellChecker
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
