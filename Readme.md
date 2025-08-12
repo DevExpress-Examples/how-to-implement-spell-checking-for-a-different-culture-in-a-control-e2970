@@ -13,8 +13,8 @@ This example demonstrates how to set an appropriate culture to [ASPxSpellChecker
 
 ## Files to Review
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx)
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
@@ -23,4 +23,5 @@ This example demonstrates how to set an appropriate culture to [ASPxSpellChecker
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
 
